@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Path Finders - Our Tag Line </title>
+    <title>Path Finders</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
 
     <link rel="stylesheet" href="./assets/frontend/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="./assets/frontend/css/animate.css">
@@ -31,15 +29,15 @@
 		    		<div class="row d-flex">
 			    		<div class="col-md-5 pr-4 d-flex topper align-items-center">
 			    			<div class="icon bg-fifth mr-2 d-flex justify-content-center align-items-center"><span class="icon-map"></span></div>
-						    <span class="text">198 West 21th Street, Suite 721 New York NY 10016</span>
+						    <span class="text">81/52, old bus stand, nittambuwa, Siri Lanka</span>
 					    </div>
 					    <div class="col-md pr-4 d-flex topper align-items-center">
 					    	<div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-						    <span class="text">youremail@email.com</span>
+						    <span class="text">support@masterpf.com</span>
 					    </div>
 					    <div class="col-md pr-4 d-flex topper align-items-center">
 					    	<div class="icon bg-tertiary mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-						    <span class="text">+ 1235 2355 98</span>
+						    <span class="text">0 76 263 8411</span>
 					    </div>
 				    </div>
 			    </div>
@@ -55,12 +53,12 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
 	        	<li class="nav-item active"><a href="{{ url('/') }}" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="{{ url('/about') }}" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="{{ url('/teacher') }}" class="nav-link">Teacher</a></li>
-	        	<li class="nav-item"><a href="{{ url('/courses') }}" class="nav-link">Courses</a></li>
-	        	<li class="nav-item"><a href="{{ url('/pricing') }}" class="nav-link">Pricing</a></li>
-	        	<li class="nav-item"><a href="{{ url('/blog') }}" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="{{ url('/contact') }}" class="nav-link">Contact</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Teacher</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Courses</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -77,49 +75,25 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">81/52, old bus stand, nittambuwa, Siri Lanka</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">0 76 263 8411</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@masterpf.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
-            <div class="ftco-footer-widget mb-5">
-              <h2 class="ftco-heading-2">Recent Blog</h2>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(/assets/frontend/images/dept-5.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#">Recent RecentRecent RecentRecent RecentRecent Recent</a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                  </div>
-                </div>
-              </div>
-              <div class="block-21 mb-5 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(/assets/frontend/images/dept-5.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#">Recent RecentRecent RecentRecent</a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-5 ml-md-4">
               <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
                 <li><a href="{{ url('/') }}"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
-                <li><a href="{{ url('/about') }}"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a href="{{ url('/') }}"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Deparments</a></li>
-                <li><a href="{{ url('/contact') }}"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+                <li><a href="{{ url('/') }}"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
               </ul>
             </div>
           </div>
